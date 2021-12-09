@@ -50,15 +50,14 @@
       </td>
    </tr>
    <tr height="90px">
-    <!--
-      <td>
+          <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
          <a href="https://github.com/MiroRuskov/SoftUni-Web-JS-Januari-2022"><strong>SoftUni Web JS Januari-2022</strong>
          </a>
          <div><sub>COMPONENTS / ROUTING / SPA / FORMS / REACT HOOKS</sub></div>
          <div>
          </div>
-      </td> -->
+      </td> 
    </tr>
    <tr  height="90px">
       <td>
