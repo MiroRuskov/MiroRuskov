@@ -62,7 +62,7 @@
    <tr  height="90px">
       <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-HTML-and-CSS-May-2022"> <strong>SoftUni HTML and CSS May-2022</strong>
+         <a href="https://github.com/MiroRuskov/SoftUni-HTML-and-CSS"> <strong>SoftUni HTML and CSS</strong>
          </a>
          <div><sub>HTML & CSS / CSS BOX MODEL / POSITION & FLOAT / FLEXBOX</sub></div>
          <div>
