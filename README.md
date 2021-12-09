@@ -16,7 +16,7 @@
    <tr height="90px">
       <td width="430px">
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a font-weight="500" href="https://github.com/MiroRuskov/SoftUni-Programming-Basics-January-2019">  <strong>SoftUni Programming Basics January-2019 </strong>
+         <a font-weight="500" href="https://github.com/MiroRuskov/SoftUni-Programming-Basics-January-2021">  <strong>SoftUni Programming Basics January-2021 </strong>
          </a>
          <div><sub>IF-ELSE / FOR LOOP / WHILE LOOP</sub></div>
          <div>
@@ -24,7 +24,7 @@
       </td>
       <td width="430px">
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-JS-Fundamentals-May-2019"><strong>SoftUni JS Fundamentals May-2019</strong>
+         <a href="https://github.com/MiroRuskov/SoftUni-JS-Fundamentals-May-2021"><strong>SoftUni JS Fundamentals May-2021</strong>
          </a>
          <div><sub>ARRAYS / OBJECTS / REGULAR EXPRESSIONS / TEXT PROCESSING</sub></div>
          <div>
@@ -34,7 +34,7 @@
    <tr  height="90px">
       <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-JS-Advanced-September-2019"> <strong>SoftUni JS Advanced September-2019</strong>
+         <a href="https://github.com/MiroRuskov/SoftUni-JS-Advanced-September-2021"> <strong>SoftUni JS Advanced September-2021</strong>
          </a>
          <div><sub>DOM / CLASSES / UNIT TESTING</sub></div>
          <div>
@@ -42,7 +42,7 @@
       </td>
       <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-JS-Applications-October-2019">   <strong>SoftUni JS Applications October-2019</strong>
+         <a href="https://github.com/MiroRuskov/SoftUni-JS-Applications-October-2021">   <strong>SoftUni JS Applications October-2021</strong>
          </a>
          <div><sub>REST SERVICES / AJAX / REMOTE DATABASES / ROUTING / TEMPLATING</sub></div>
          <div>
@@ -52,7 +52,7 @@
    <tr height="90px">
       <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-JS-Back-End-May-2020">  <strong>SoftUni JS Back End May-2020</strong>
+         <a href="https://github.com/MiroRuskov/SoftUni-JS-Back-End-May-2022">  <strong>SoftUni JS Back End May-2022</strong>
          </a>
          <div><sub>EXPRESSJS / TEMPLATING / MONGODB / SESSION / AUTHENTICATION</sub></div>
          <div>
@@ -60,7 +60,7 @@
       </td>
       <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-React-JS-June-2020"><strong>SoftUni React JS June-2020</strong>
+         <a href="https://github.com/MiroRuskov/SoftUni-Web-JS-Januari-2021"><strong>SoftUni Web JS Januari-2021</strong>
          </a>
          <div><sub>COMPONENTS / ROUTING / SPA / FORMS / REACT HOOKS</sub></div>
          <div>
@@ -70,30 +70,15 @@
    <tr  height="90px">
       <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-HTML-and-CSS-September-2020"> <strong>SoftUni HTML and CSS September-2020</strong>
+         <a href="https://github.com/MiroRuskov/SoftUni-HTML-and-CSS-September-2020"> <strong>SoftUni HTML and CSS May-2022</strong>
          </a>
          <div><sub>HTML & CSS / CSS BOX MODEL / POSITION & FLOAT / FLEXBOX</sub></div>
          <div>
          </div>
       </td>
-      <td>
-         <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-Algorithms-Fundamentals-November-2020"> <strong>SoftUni Algorithms Fundamentals November-2020</strong>
-         </a>
-         <div><sub>RECURSION / SEARCHING / SORTING / GRAPH THEORY</sub></div>
-         <div>
-         </div>
-      </td>
-   </tr>
+         </tr>
    <tr   height="90px">
-      <td>
-         <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-Angular-July-2021"> <strong>SoftUni Angular July-2021</strong></a>
-         <div><sub>ANGULAR / TYPESCRIPT / SASS / COMPONENTS / MODULES / ROUTING</sub></div>
-         <div>
-         </div>
-      </td>
-      <td>
+           <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
          <a href="https://github.com/MiroRuskov/SoftUni-Motion-Software-Bootcamp"> <strong>SoftUni Motion Software Bootcamp</strong>
          </a>
