@@ -1,7 +1,7 @@
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=MiroRuskov&count_private=true&show_icons=true" height="125px" >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiroRuskov&layout=compact" height="125px" >
+   <img src="https://github-readme-stats.vercel.app/api?username=MiroRuskov&count_private=true&show_icons=true" height="145px" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiroRuskov&layout=compact" height="145px" >
 </p>
 
 <hr></hr>
