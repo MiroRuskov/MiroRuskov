@@ -80,12 +80,7 @@
     
 </table>
 
-<div align="center" style="height:55px">
-   <a href="https://university.mongodb.com/courses/catalog">
-      <img src="https://github.com/MiroRuskov/MiroRuskov/blob/main/images/logo/MongoDB.png">
-   </a>
-</div>
-
+<!--
 <table width="100%">
    <tr height="90px">
       <td  width="430px">
@@ -105,7 +100,7 @@
       </td>
    </tr>
 </table>
-
+-->
 <hr></hr>
 
 <table width="100%">
