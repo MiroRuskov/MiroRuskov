@@ -60,7 +60,7 @@
       </td>
       <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-Web-JS-Januari-2021"><strong>SoftUni Web JS Januari-2021</strong>
+         <a href="https://github.com/MiroRuskov/SoftUni-Web-JS-Januari-2022"><strong>SoftUni Web JS Januari-2022</strong>
          </a>
          <div><sub>COMPONENTS / ROUTING / SPA / FORMS / REACT HOOKS</sub></div>
          <div>
@@ -70,7 +70,7 @@
    <tr  height="90px">
       <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-HTML-and-CSS-September-2020"> <strong>SoftUni HTML and CSS May-2022</strong>
+         <a href="https://github.com/MiroRuskov/SoftUni-HTML-and-CSS-May-2022"> <strong>SoftUni HTML and CSS May-2022</strong>
          </a>
          <div><sub>HTML & CSS / CSS BOX MODEL / POSITION & FLOAT / FLEXBOX</sub></div>
          <div>
