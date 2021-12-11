@@ -81,7 +81,7 @@
       </td>
       <td  width="430px">
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/UX-&-Web-Design-November-2020"> <strong>/UX & Web Design November 2020</strong></a>
+         <a href="https://github.com/MiroRuskov/UX---Web-Design-November-2020"> <strong>/UX & Web Design November 2020</strong></a>
          <div><sub>Creating characters and scenarios / Building a consumer journey / Creating storyboards /Working with Gestalt principles / Complete construction of paper prototypes / Sigitization of paper prototypes</sub></div>
          <div>
          </div>
