@@ -58,9 +58,7 @@
          <div>
          </div>
       </td> 
-   </tr>
-   <tr  height="90px">
-      <td>
+         <td>
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
          <a href="https://github.com/MiroRuskov/SoftUni-HTML-and-CSS"> <strong>SoftUni HTML and CSS</strong>
          </a>
