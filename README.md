@@ -13,7 +13,7 @@
 </div>
 
 <table width="100%">
-   <tr height="130px">
+   <tr height="90px">
       <td width="430px">
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
          <a font-weight="500" href="https://github.com/MiroRuskov/SoftUni-Programming-Basics-January-2021">  <strong>SoftUni Programming Basics January-2021 </strong>
