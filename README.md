@@ -80,7 +80,7 @@
     
 </table>
 
-<!--
+
 <table width="100%">
    <tr height="90px">
       <td  width="430px">
@@ -100,7 +100,7 @@
       </td>
    </tr>
 </table>
--->
+
 <hr></hr>
 
 <table width="100%">
