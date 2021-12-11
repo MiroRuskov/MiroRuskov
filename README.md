@@ -68,19 +68,9 @@
          <div>
          </div>
       </td>
-      <td>
-         <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/SoftUni-Motion-Software-Bootcamp"> <strong>SoftUni Motion Software Bootcamp</strong>
-         </a>
-         <div><sub>DOM / CLASSES / REST SERVICES / AJAX / THIS / ADVANCED FUNCTIONS</sub></div>
-         <div>
-         </div>
-      </td>
-   </tr>
-    
-</table>
+     </tr>
+    </table>
 <hr></hr>
-
 <table width="100%">
    <tr height="90px">
       <td  width="430px">
@@ -93,7 +83,7 @@
       </td>
       <td  width="430px">
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/UX-&-Web-Design-November-2020"> <strong>MongoDB for JS Developers</strong></a>
+         <a href="https://github.com/MiroRuskov/UX-&-Web-Design-November-2020"> <strong>/UX & Web Design November 2020</strong></a>
          <div><sub>Creating characters and scenarios / Building a consumer journey / Creating storyboards /Working with Gestalt principles / Complete construction of paper prototypes / Sigitization of paper prototypes</sub></div>
          <div>
          </div>
