@@ -85,16 +85,16 @@
    <tr height="90px">
       <td  width="430px">
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://university.mongodb.com/course_completion/a2175fa8-a72e-4273-bc79-3ae9c191e3d1?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing"> <strong>MongoDB Basics</strong>
+         <a href="https://github.com/MiroRuskov/SoftUni-Illustrator-February-2021"> <strong>Illustrator</strong>
          </a>
-         <div> <sub>CREATING AND MANIPULATING DOCUMENTS / CRUD OPERATIONS </sub> </div>
+         <div> <sub>DRAWING / SCETCHING / PAINTING</sub> </div>
          <div>
          </div>
       </td>
       <td  width="430px">
          <img src="https://raw.githubusercontent.com/MiroRuskov/MiroRuskov/main/images/repo.png" height="13px">
-         <a href="https://github.com/MiroRuskov/MongoDB-for-Javascript-Developers"> <strong>MongoDB for JS Developers</strong></a>
-         <div><sub>DRIVER SETUP / USER-FACING BACKEND / ADMIN BACKEND / RESILIENCY</sub></div>
+         <a href="https://github.com/MiroRuskov/UX-&-Web-Design-November-2020"> <strong>MongoDB for JS Developers</strong></a>
+         <div><sub>Creating characters and scenarios / Building a consumer journey / Creating storyboards /Working with Gestalt principles / Complete construction of paper prototypes / Sigitization of paper prototypes</sub></div>
          <div>
          </div>
       </td>
